@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg{
+    background-image: url('https://tl.sa/wp-content/uploads/2018/01/contact-us-hero-bg-1024x400.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    background: rgba(0, 0, 0, 0.157);
+}
